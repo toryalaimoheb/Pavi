@@ -1,0 +1,181 @@
+body{
+  background-color: #d2fafb;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #40514e;
+}
+.top-container{
+  background-color: #d2fafb;
+  position: relative;
+  padding-top: 110px;
+  margin-top: 0;
+  padding-bottom: 80px;
+}
+h1 {
+font-family: 'Sacramento', cursive;
+margin: 50px auto 0 auto;
+font-size: 550%;
+color: #66BFBF;
+
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2em;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding: 10px;
+}
+.middle-container{
+
+}
+.bio {
+  width: 50%;
+  margin: auto;
+}
+.bottom-container {
+background-color: #66bfbf;
+
+margin: 0;
+
+padding: 30px 0 0px;
+}
+.top-cloud{
+  position: absolute;
+  left: 750px;
+  top: 30px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.andrimg {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+  border: solid;
+  background-color: #ffd5d5;
+}
+.phpimg {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+  border: solid;
+
+}
+
+.skill-row {
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+
+
+}
+
+
+
+
+
+
+.profile-pic {
+    border-radius: 100%;
+}
+
+.profile-pic:hover {
+    border-radius: 100%;
+
+    width: 25%;
+  }
+
+
+.profile {
+  text-align: center;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 40px;
+  color: grey;
+  border-width: 5px;
+
+  margin: 100px auto;
+}
+
+a {color: #11999E;
+    padding: 12px;
+    padding-top: 12px;
+    font-family: 'Montserrat', sans-serif;
+
+    text-decoration: none;
+
+}
+a:hover{
+  color: #eaf6f6;
+}
+
+.form{
+  width: 25%;
+  text-align: center;
+  position: relative;
+  margin: 0 auto 15px auto;
+  border-style: none;
+  border-width: 0;
+  border-color: #66bfbf;
+
+}
+
+input{
+  background-color: #66bfbf;
+}
+input:hover{
+
+  background-color: #eaf6f6;
+}
+textarea{
+    background-color: #66bfbf;
+
+}
+textarea:hover{
+
+  background-color: #eaf6f6;
+}
+textarea:active{
+    background-color: #eaf6f6;
+}
+button {
+  background-color: #66bfbf;
+  width: 80px;
+  height: 35px;
+  border-radius: 10%;
+}
+button:hover{
+
+    background-color: #eaf6f6;
+    shape-outside: margin-box;
+  }
+
+  .footerpar {
+    color: #eaf6f6;
+    font-size: 0.75em;
+    padding: 20px 0;
+  }
+p{
+line-height: 1.5;
+}
+
+.lastpar {
+  width: 40%;
+  margin: 10px auto 20px auto;
+}
